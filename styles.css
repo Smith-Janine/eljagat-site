@@ -62,3 +62,12 @@
   p {
     font-size: 1.08rem;
   }
+
+
+  footer {
+    padding: 32px 24px;
+    text-align: center;
+    background: #111111;
+    color: #d6b36a;
+    font-size: 0.9rem;
+  }
